@@ -20,7 +20,12 @@ Capture your tasks, tick them off, and watch your list update instantly.
 
 <div align="center">
 
- <img src="[screenshots/splash.png](https://github.com/user-attachments/assets/2df2f319-2f09-46f2-b225-eaa76a020b2d)" width="200"/> | <img src="[screenshots/pending.png](https://github.com/user-attachments/assets/e8782655-61b8-45d6-9391-cf6f9b997104)" width="200"/> | <img src="[screenshots/add_task.png](https://github.com/user-attachments/assets/89d3ce27-6191-4363-b45c-dbab877c82bd)" width="200"/> 
+<img width="541" height="961" alt="Android Small - 4" src="https://github.com/user-attachments/assets/bcf99c63-931b-41fc-9dcb-74d014765cdc" />
+<img width="541" height="961" alt="Android Small - 5" src="https://github.com/user-attachments/assets/abc863eb-f60a-445c-aea8-e941a014cdce" />
+<img width="541" height="961" alt="Android Small - 6" src="https://github.com/user-attachments/assets/e1dbaf43-c692-4f54-8d33-5be5f33e6bd6" />
+
+
+ 
 
 </div>
 
@@ -86,7 +91,7 @@ ali.ghanbariyan.taskapp
 
 1. **Clone** the repository
    ```bash
-   git clone https://github.com/<your-username>/TaskApp.git
+   git clone [https://github.com/<your-username>/TaskApp.git](https://github.com/Aligh761/Task-App.git)
    ```
 2. **Open** the project in Android Studio
 3. **Sync** Gradle and wait for it to finish
