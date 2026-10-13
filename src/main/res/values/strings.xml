@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task APP</string>
+    <string name="todo">todo</string>
+    <string name="explain_txt">با اپلیکیشن تسک سنج کارهاتو مدیریت کن</string>
+    <string name="task_txt">تسک اپ</string>
+    <string name="SP_image2">SP_Screen</string>
+    <string name="projects">مدیریت وظایف</string>
+    <string name="false_works">کار های انجام نشده</string>
+    <string name="true_works">کارهای انجام شده</string>
+    <string name="false_work">کارهای انجام نشده</string>
+    <string name="task_test">کار تستی اول</string>
+    <string name="image_delete">image_delete</string>
+    <string name="icon_plus">icon_plus</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">منصرف شدن</string>
+    <string name="add_task">وظیفه را وارد کنید</string>
+    <string name="add_task_txt">اضافه کردن وظیفه</string>
+    <string name="add_task_txt_edt">لطفا وظیفه را وارد کنید</string>
+</resources>
