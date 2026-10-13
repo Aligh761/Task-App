@@ -20,9 +20,9 @@ Capture your tasks, tick them off, and watch your list update instantly.
 
 <div align="center">
 
-<img width="200" height="250" alt="Android Small - 4" src="https://github.com/user-attachments/assets/bcf99c63-931b-41fc-9dcb-74d014765cdc" />
-<img width="200" height="250" alt="Android Small - 5" src="https://github.com/user-attachments/assets/abc863eb-f60a-445c-aea8-e941a014cdce" />
-<img width="200" height="250" alt="Android Small - 6" src="https://github.com/user-attachments/assets/e1dbaf43-c692-4f54-8d33-5be5f33e6bd6" />
+<img width="250" height="350" alt="Android Small - 4" src="https://github.com/user-attachments/assets/bcf99c63-931b-41fc-9dcb-74d014765cdc" />
+<img width="250" height="350" alt="Android Small - 5" src="https://github.com/user-attachments/assets/abc863eb-f60a-445c-aea8-e941a014cdce" />
+<img width="250" height="350" alt="Android Small - 6" src="https://github.com/user-attachments/assets/e1dbaf43-c692-4f54-8d33-5be5f33e6bd6" />
 
 
  
